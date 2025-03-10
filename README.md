@@ -19,8 +19,8 @@ This project is a **real-time shape and color recognition system** using **OpenC
 ## 📌 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohamed-Montasser/shape-color-recognition.git
-   cd shape-color-recognition
+   git clone https://github.com/Mohamed-Montasser/Shape-Color-Recognition.git
+   cd Shape-Color-Recognition
    ```
 2. Install dependencies:
    ```bash
