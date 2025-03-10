@@ -41,10 +41,10 @@ This project is a **real-time shape and color recognition system** using **OpenC
   - **>6 edges** → Circle ⚫
 - Displays detected shapes with labels on the screen.
 
-## 🖼️ Screenshots
-| Detected Shapes | Example |
-|----------------|---------|
-| Blue Circle - Red Triangle - Green Rectangle | ![](example.png) |
+## 🖼️ Example
+| Detected Shapes | Test | Result |
+|----------------|---------|---------|
+| Blue Circle - Red Triangle - Green Rectangle | ![](example.png) |![](RESULT.png) |
 
 ## 🏆 Future Enhancements
 - Support for **more colors** (yellow, cyan, etc.) 🌈
