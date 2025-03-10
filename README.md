@@ -1,6 +1,6 @@
 # Shape & Color Recognition System
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-4.11-green)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-4.11-green) ![NumPy](https://img.shields.io/badge/NumPy-2.2.3-red)
 
 ## 📌 Overview
 This project is a **real-time shape and color recognition system** using **OpenCV** and **Python**. It detects and classifies **triangles, rectangles, and circles** based on their color (**red, green, and blue**) from a live video feed.
