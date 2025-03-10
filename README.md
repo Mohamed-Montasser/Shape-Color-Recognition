@@ -37,7 +37,7 @@ This project is a **real-time shape and color recognition system** using **OpenC
 - Uses **contour detection** to find shapes.
 - Classifies the shape based on the number of edges:
   - **3 edges** → Triangle 🔺
-  - **4 edges** → Rectangle ◼️
+  - **4 edges** → Rectangle ⬛
   - **>6 edges** → Circle ⚫
 - Displays detected shapes with labels on the screen.
 
