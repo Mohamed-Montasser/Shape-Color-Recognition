@@ -116,7 +116,7 @@ while True:
    # cv2.imshow("Mask blue", maskblue)
 
     key = cv2.waitKey(1)
-    if key == 27:
+    if key == 27:        # press -> ESC key to close
         break
 
 cap.release()
