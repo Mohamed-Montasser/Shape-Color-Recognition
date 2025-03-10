@@ -14,7 +14,7 @@ This project is a **real-time shape and color recognition system** using **OpenC
 ## 🛠️ Technologies Used
 - **Python 3.8+**
 - **OpenCV 4.11**
-- **NumPy**
+- **NumPy  2.2.3**
 
 ## 📌 Installation
 1. Clone the repository:
