@@ -3,7 +3,7 @@
 # Author: Mohamed Montasser
 # Date: 2025
 # Description: Real-time detection and labeling of basic geometric shapes
-#              (triangle, rectangle, circle) in red, green, and blue colors
+#              (triangle, rectangle, circle) in red, green, black, and blue colors
 #              using a webcam feed and OpenCV.
 # ------------------------------------------------------------------------------
 
