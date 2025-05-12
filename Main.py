@@ -1,6 +1,11 @@
-# Copyright 2025 by Mohamed Montasser.
-# All rights reserved.
-# This file is part of the Shape & Color Recognition System Project.
+# ------------------------------------------------------------------------------
+# Shape & Color Recognition System
+# Author: Mohamed Montasser
+# Date: 2025
+# Description: Real-time detection and labeling of basic geometric shapes
+#              (triangle, rectangle, circle) in red, green, and blue colors
+#              using a webcam feed and OpenCV.
+# ------------------------------------------------------------------------------
 
 import cv2
 import numpy as np
